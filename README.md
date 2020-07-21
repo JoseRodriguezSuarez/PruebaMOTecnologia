@@ -5,5 +5,6 @@ python manage.py cadena_evolutiva
 
 
 La exposición del servicio luego de arrancar el server
-Localhost:8000/cadEvolucion/ seguido del nombre del Pokemon
-A consultar. 
+localhost:8000/cadenaEvolucion/ seguido del nombre del Pokemon
+A consultar si no se pasa este parámetro mostrara
+Todos los registros 
